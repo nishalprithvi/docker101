@@ -9,3 +9,9 @@
    - just needed to git push 
 
 next up - looking to dockerize python django or a node app
+
+2. node-app
+   - made basic node app and dockerized it
+   - running well and as expected
+   - just needed to git push
+
